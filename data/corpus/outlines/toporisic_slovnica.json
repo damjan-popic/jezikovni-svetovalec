@@ -1,0 +1,907 @@
+[
+  {
+    "level": 1,
+    "title": "NASLOVNA STRAN",
+    "page_number": 1
+  },
+  {
+    "level": 1,
+    "title": "Jože Toporišič: SLOVENSKA SLOVNICA Četrta, prenovljena in razširjena izdaja",
+    "page_number": 6
+  },
+  {
+    "level": 1,
+    "title": "PREDGOVOR",
+    "page_number": 8
+  },
+  {
+    "level": 1,
+    "title": "PREDGOVOR K DRUGI IZDAJI",
+    "page_number": 9
+  },
+  {
+    "level": 1,
+    "title": "PREDGOVOR K ČETRTI IZDAJI",
+    "page_number": 10
+  },
+  {
+    "level": 1,
+    "title": "VSEBINA",
+    "page_number": 12
+  },
+  {
+    "level": 1,
+    "title": "I. ZVRSTNOST SLOVENSKEGA JEZIKA, KAZALO",
+    "page_number": 14
+  },
+  {
+    "level": 2,
+    "title": "ZVRSTI IN SNOPI ZVRSTI",
+    "page_number": 16
+  },
+  {
+    "level": 3,
+    "title": "Osnovni pojmi",
+    "page_number": 16
+  },
+  {
+    "level": 3,
+    "title": "Funkcijske zvrsti",
+    "page_number": 30
+  },
+  {
+    "level": 3,
+    "title": "Prenosniški zvrsti",
+    "page_number": 35
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 37
+  },
+  {
+    "level": 1,
+    "title": "II. GLASOSLOVJE, KAZALO",
+    "page_number": 40
+  },
+  {
+    "level": 2,
+    "title": "Kazalo",
+    "page_number": 40
+  },
+  {
+    "level": 2,
+    "title": "Splošno o glasoslovju",
+    "page_number": 44
+  },
+  {
+    "level": 2,
+    "title": "GLASOVI PO TVORBI, AKUSTIČNIH ZNAČILNOSTIH TER RAZVRSTITVI",
+    "page_number": 49
+  },
+  {
+    "level": 2,
+    "title": "SINTAGMATIKA FONEMOV",
+    "page_number": 89
+  },
+  {
+    "level": 2,
+    "title": "ZLOG",
+    "page_number": 90
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 100
+  },
+  {
+    "level": 3,
+    "title": "SPLOŠNA",
+    "page_number": 100
+  },
+  {
+    "level": 3,
+    "title": "NAGLASOSLOVJU DODANA LITERATURA",
+    "page_number": 102
+  },
+  {
+    "level": 3,
+    "title": "PISAVE IN PRAVOPIS",
+    "page_number": 102
+  },
+  {
+    "level": 1,
+    "title": "III. BESEDOSLOVJE, KAZALO",
+    "page_number": 104
+  },
+  {
+    "level": 2,
+    "title": "KAJ JE BESEDOSLOVJE (leksikologija)",
+    "page_number": 106
+  },
+  {
+    "level": 2,
+    "title": "KAJ JE BESEDA",
+    "page_number": 106
+  },
+  {
+    "level": 2,
+    "title": "POSEBNOSTI V PISANJU",
+    "page_number": 107
+  },
+  {
+    "level": 2,
+    "title": "MORFEMSKI SESTAV BESEDE",
+    "page_number": 111
+  },
+  {
+    "level": 2,
+    "title": "VEČDELNE BESEDE IN  OBLIKE",
+    "page_number": 112
+  },
+  {
+    "level": 2,
+    "title": "BESEDNE VRSTE",
+    "page_number": 112
+  },
+  {
+    "level": 2,
+    "title": "NAGLASEVANJE V BESEDI - POUDARJANJE V STAVKU",
+    "page_number": 113
+  },
+  {
+    "level": 2,
+    "title": "IZRAZNA PODOBA IN POMEN",
+    "page_number": 116
+  },
+  {
+    "level": 2,
+    "title": "POMEN BESED",
+    "page_number": 117
+  },
+  {
+    "level": 2,
+    "title": "BESEDJE (LEKSIKA)",
+    "page_number": 119
+  },
+  {
+    "level": 2,
+    "title": "STILNA VREDNOST BESED",
+    "page_number": 126
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 139
+  },
+  {
+    "level": 3,
+    "title": "Besedje",
+    "page_number": 139
+  },
+  {
+    "level": 3,
+    "title": "Izrazje",
+    "page_number": 141
+  },
+  {
+    "level": 3,
+    "title": "Vrste besed",
+    "page_number": 142
+  },
+  {
+    "level": 3,
+    "title": "Lastnoimensko besedje",
+    "page_number": 142
+  },
+  {
+    "level": 3,
+    "title": "Frazeologija",
+    "page_number": 143
+  },
+  {
+    "level": 1,
+    "title": "IV. BESEDOTVORJE, KAZALO",
+    "page_number": 146
+  },
+  {
+    "level": 2,
+    "title": "OSNOVNI POJMI BESEDOTVORJA",
+    "page_number": 152
+  },
+  {
+    "level": 2,
+    "title": "TVORBA SAMOSTALNISKIH BESED",
+    "page_number": 164
+  },
+  {
+    "level": 2,
+    "title": "ZLAGANJE SAMOSTALNIKOV",
+    "page_number": 190
+  },
+  {
+    "level": 2,
+    "title": "SESTAVLJANJE SAMOSTALNIKOV",
+    "page_number": 197
+  },
+  {
+    "level": 2,
+    "title": "TVORBA PRIDEVNIŠKIH BESED",
+    "page_number": 198
+  },
+  {
+    "level": 2,
+    "title": "ZLAGANJE PRIDEVNIŠKIH BESED",
+    "page_number": 209
+  },
+  {
+    "level": 2,
+    "title": "TVORBA GLAGOLOV",
+    "page_number": 213
+  },
+  {
+    "level": 2,
+    "title": "TVORBA PRISLOVOV",
+    "page_number": 230
+  },
+  {
+    "level": 2,
+    "title": "TVORBA VEZNIKOV IN MEDMETOV",
+    "page_number": 235
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 235
+  },
+  {
+    "level": 1,
+    "title": "V. OBLKOSLOVJE, KAZALO",
+    "page_number": 238
+  },
+  {
+    "level": 2,
+    "title": "OSNOVNI POJMI OBLIKOSLOVJA",
+    "page_number": 258
+  },
+  {
+    "level": 2,
+    "title": "INHERENTNE KATEGORIJE SKLONLJIVEGA",
+    "page_number": 269
+  },
+  {
+    "level": 3,
+    "title": "Spol",
+    "page_number": 269
+  },
+  {
+    "level": 3,
+    "title": "Sklon",
+    "page_number": 270
+  },
+  {
+    "level": 3,
+    "title": "Število",
+    "page_number": 274
+  },
+  {
+    "level": 3,
+    "title": "Oseba",
+    "page_number": 275
+  },
+  {
+    "level": 2,
+    "title": "SAMOSTALNISKE BESEDE",
+    "page_number": 276
+  },
+  {
+    "level": 2,
+    "title": "SAMOSTALNIK",
+    "page_number": 279
+  },
+  {
+    "level": 3,
+    "title": "KATEGORIJA SAMOSTALNIKA",
+    "page_number": 279
+  },
+  {
+    "level": 3,
+    "title": "SKLANJATVE",
+    "page_number": 281
+  },
+  {
+    "level": 3,
+    "title": "SAMOSTALNIŠKI ZAIMKI",
+    "page_number": 307
+  },
+  {
+    "level": 2,
+    "title": "PRIDEVNIŠKE BESEDE",
+    "page_number": 320
+  },
+  {
+    "level": 2,
+    "title": "PRIDEVNIK",
+    "page_number": 323
+  },
+  {
+    "level": 2,
+    "title": "ŠTEVNKI",
+    "page_number": 332
+  },
+  {
+    "level": 2,
+    "title": "PRIDEVNIŠKI ZAIMKI",
+    "page_number": 338
+  },
+  {
+    "level": 2,
+    "title": "GLAGOL",
+    "page_number": 348
+  },
+  {
+    "level": 3,
+    "title": "GLAGOLSKE KATEGORIJE",
+    "page_number": 351
+  },
+  {
+    "level": 3,
+    "title": "PARADIGMATIKA GLAGOLSKIH OBLIK",
+    "page_number": 363
+  },
+  {
+    "level": 3,
+    "title": "RABA GLAGOLSKIH OBLIK",
+    "page_number": 392
+  },
+  {
+    "level": 2,
+    "title": "PRISLOV",
+    "page_number": 409
+  },
+  {
+    "level": 2,
+    "title": "POVEDKOVNIK",
+    "page_number": 415
+  },
+  {
+    "level": 2,
+    "title": "PREDLOG",
+    "page_number": 416
+  },
+  {
+    "level": 2,
+    "title": "VEZNIŠKA BESEDA",
+    "page_number": 429
+  },
+  {
+    "level": 2,
+    "title": "ČLENEK",
+    "page_number": 448
+  },
+  {
+    "level": 2,
+    "title": "MEDMET",
+    "page_number": 453
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 466
+  },
+  {
+    "level": 3,
+    "title": "Oblikoglasje",
+    "page_number": 466
+  },
+  {
+    "level": 3,
+    "title": "Splošno",
+    "page_number": 466
+  },
+  {
+    "level": 3,
+    "title": "Samostalniška beseda",
+    "page_number": 467
+  },
+  {
+    "level": 3,
+    "title": "Pridevniška beseda",
+    "page_number": 468
+  },
+  {
+    "level": 3,
+    "title": "Glagol",
+    "page_number": 469
+  },
+  {
+    "level": 3,
+    "title": "Povedkovnik",
+    "page_number": 470
+  },
+  {
+    "level": 3,
+    "title": "Nepregibne besedne vrste",
+    "page_number": 470
+  },
+  {
+    "level": 3,
+    "title": "Naglas",
+    "page_number": 471
+  },
+  {
+    "level": 1,
+    "title": "VI. SKLADNJA, KAZALO",
+    "page_number": 472
+  },
+  {
+    "level": 2,
+    "title": "KAJ OBSEGA SKLADNJA",
+    "page_number": 490
+  },
+  {
+    "level": 2,
+    "title": "POVED IN STAVEK",
+    "page_number": 491
+  },
+  {
+    "level": 2,
+    "title": "MEDPOVEDNA SKLADNJA",
+    "page_number": 493
+  },
+  {
+    "level": 2,
+    "title": "UPOVEDOVANJE",
+    "page_number": 494
+  },
+  {
+    "level": 2,
+    "title": "STAVEK",
+    "page_number": 558
+  },
+  {
+    "level": 2,
+    "title": "BESEDNE ZVEZE ALI STAVČNE FRAZE",
+    "page_number": 560
+  },
+  {
+    "level": 2,
+    "title": "DOLOČANJE STAVČNIH ČLENOV",
+    "page_number": 609
+  },
+  {
+    "level": 2,
+    "title": "TIPOLOGIJA STAVKOV",
+    "page_number": 631
+  },
+  {
+    "level": 2,
+    "title": "ZVEZE STAVKOV",
+    "page_number": 639
+  },
+  {
+    "level": 2,
+    "title": "PRVOTNI GOVOR - POROČANI (PRENESENI) GOVOR",
+    "page_number": 656
+  },
+  {
+    "level": 2,
+    "title": "BESEDNI IN STAVČNI RED",
+    "page_number": 670
+  },
+  {
+    "level": 2,
+    "title": "BESEDILNA SKLADNJA",
+    "page_number": 681
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 691
+  },
+  {
+    "level": 3,
+    "title": "Splošno",
+    "page_number": 691
+  },
+  {
+    "level": 3,
+    "title": "Razprave o posameznih problemih",
+    "page_number": 692
+  },
+  {
+    "level": 3,
+    "title": "Stavčna fonetika",
+    "page_number": 693
+  },
+  {
+    "level": 3,
+    "title": "Besedni in stavčni red",
+    "page_number": 694
+  },
+  {
+    "level": 1,
+    "title": "VII. SPOROČANJE, KAZALO",
+    "page_number": 696
+  },
+  {
+    "level": 2,
+    "title": "Splošno o sporočanju",
+    "page_number": 698
+  },
+  {
+    "level": 2,
+    "title": "TVOREC",
+    "page_number": 701
+  },
+  {
+    "level": 2,
+    "title": "BESEDILO",
+    "page_number": 718
+  },
+  {
+    "level": 2,
+    "title": "NASLOVNIK",
+    "page_number": 729
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 746
+  },
+  {
+    "level": 3,
+    "title": "Splošno",
+    "page_number": 746
+  },
+  {
+    "level": 3,
+    "title": "Zvrstnost",
+    "page_number": 746
+  },
+  {
+    "level": 3,
+    "title": "Jezik v govoru",
+    "page_number": 747
+  },
+  {
+    "level": 3,
+    "title": "Nastajanje sporočila",
+    "page_number": 748
+  },
+  {
+    "level": 3,
+    "title": "Besedilno sporočilo",
+    "page_number": 748
+  },
+  {
+    "level": 3,
+    "title": "Naslovnik",
+    "page_number": 749
+  },
+  {
+    "level": 3,
+    "title": "Govorjenje",
+    "page_number": 749
+  },
+  {
+    "level": 3,
+    "title": "Sporočanje in šola",
+    "page_number": 749
+  },
+  {
+    "level": 3,
+    "title": "Pragmatika",
+    "page_number": 751
+  },
+  {
+    "level": 1,
+    "title": "VIII. SLOVENSKI JEZIK V ČASU, KAZALO",
+    "page_number": 754
+  },
+  {
+    "level": 2,
+    "title": "SPLOSNO 0 SLOVENSKEM JEZIKU",
+    "page_number": 758
+  },
+  {
+    "level": 2,
+    "title": "ZGODOVINA SLOVENSKEGA JEZIKA",
+    "page_number": 758
+  },
+  {
+    "level": 2,
+    "title": "GLASOSLOVJE",
+    "page_number": 759
+  },
+  {
+    "level": 2,
+    "title": "OBLIKOSLOVJE",
+    "page_number": 762
+  },
+  {
+    "level": 2,
+    "title": "SLOVENSKI JEZIKOVNI RAZVOJ",
+    "page_number": 763
+  },
+  {
+    "level": 2,
+    "title": "SLOVENŠČINA IN STIČNI JEZIKI",
+    "page_number": 777
+  },
+  {
+    "level": 2,
+    "title": "SLOVENSKA NAREČJA",
+    "page_number": 780
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 791
+  },
+  {
+    "level": 3,
+    "title": "Splošni razvoj slovenskega jezika",
+    "page_number": 791
+  },
+  {
+    "level": 3,
+    "title": "Narečja",
+    "page_number": 792
+  },
+  {
+    "level": 2,
+    "title": "SLOVENSKI PISMENI JEZIK",
+    "page_number": 798
+  },
+  {
+    "level": 3,
+    "title": "PREDKNJlŽNO IZROČILO",
+    "page_number": 798
+  },
+  {
+    "level": 3,
+    "title": "KNJIŽNI JEZIK",
+    "page_number": 799
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 810
+  },
+  {
+    "level": 3,
+    "title": "Predknjižno izročilo (pismenstvo)",
+    "page_number": 810
+  },
+  {
+    "level": 3,
+    "title": "SIovenski knjižni jezik",
+    "page_number": 812
+  },
+  {
+    "level": 3,
+    "title": "I. obdobje slovenskega knjižnega jezika",
+    "page_number": 813
+  },
+  {
+    "level": 3,
+    "title": "Protireformacija",
+    "page_number": 816
+  },
+  {
+    "level": 3,
+    "title": "II. obdobje slovenskega knjižnega jezika",
+    "page_number": 816
+  },
+  {
+    "level": 3,
+    "title": "III. obdobje slovenskega knjižnega jezika",
+    "page_number": 816
+  },
+  {
+    "level": 3,
+    "title": "IV. obdobje slovenskega knjižnega jezika",
+    "page_number": 817
+  },
+  {
+    "level": 3,
+    "title": "V. obdobje slovenskega knjižnega jezika",
+    "page_number": 818
+  },
+  {
+    "level": 3,
+    "title": "VI. obdobje slovenskega knjižnega jezika",
+    "page_number": 820
+  },
+  {
+    "level": 3,
+    "title": "VII. obdobje sIovenskega knjižnega jezika",
+    "page_number": 822
+  },
+  {
+    "level": 3,
+    "title": "Pokrajinska knjižna izročila",
+    "page_number": 824
+  },
+  {
+    "level": 3,
+    "title": "Zahodnoslovensko izročilo",
+    "page_number": 824
+  },
+  {
+    "level": 3,
+    "title": "Koroško izročilo",
+    "page_number": 824
+  },
+  {
+    "level": 3,
+    "title": "Prekmursko izročilo",
+    "page_number": 825
+  },
+  {
+    "level": 3,
+    "title": "Štajersko izročilo",
+    "page_number": 825
+  },
+  {
+    "level": 1,
+    "title": "IX. SODOBNA VPRAŠANJA KNJIŽNEGA JEZIKA IN JEZIKOSLOVJA, KAZALO",
+    "page_number": 826
+  },
+  {
+    "level": 2,
+    "title": "Vseslovenskost knjižnega jezika",
+    "page_number": 828
+  },
+  {
+    "level": 2,
+    "title": "Normodajalna podstava knjižnega jezika",
+    "page_number": 829
+  },
+  {
+    "level": 2,
+    "title": "Funkcijska zvrstnost",
+    "page_number": 829
+  },
+  {
+    "level": 2,
+    "title": "Norma in predpis",
+    "page_number": 830
+  },
+  {
+    "level": 2,
+    "title": "Pravopis in oblikoglasje",
+    "page_number": 833
+  },
+  {
+    "level": 2,
+    "title": "Normativni priročniki",
+    "page_number": 836
+  },
+  {
+    "level": 2,
+    "title": "Vprašanja funkcijske zvrstnosti",
+    "page_number": 837
+  },
+  {
+    "level": 2,
+    "title": "Družbenost",
+    "page_number": 841
+  },
+  {
+    "level": 2,
+    "title": "Stiki z drugojezičnim",
+    "page_number": 843
+  },
+  {
+    "level": 2,
+    "title": "Slovenščina kot tuji jezik",
+    "page_number": 844
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA",
+    "page_number": 845
+  },
+  {
+    "level": 3,
+    "title": "Zvrstnost",
+    "page_number": 845
+  },
+  {
+    "level": 3,
+    "title": "Izrazna podoba jezika",
+    "page_number": 845
+  },
+  {
+    "level": 3,
+    "title": "Skladnja",
+    "page_number": 846
+  },
+  {
+    "level": 3,
+    "title": "Stilistika",
+    "page_number": 846
+  },
+  {
+    "level": 3,
+    "title": "Prevzemanje",
+    "page_number": 847
+  },
+  {
+    "level": 3,
+    "title": "Glasila, priročniki",
+    "page_number": 847
+  },
+  {
+    "level": 3,
+    "title": "Normiranje",
+    "page_number": 848
+  },
+  {
+    "level": 3,
+    "title": "Kultura knjižnegajezika",
+    "page_number": 848
+  },
+  {
+    "level": 3,
+    "title": "Družbenost jezika",
+    "page_number": 849
+  },
+  {
+    "level": 3,
+    "title": "DODATEK K JEZIKOSLOVNI LITERATURI",
+    "page_number": 853
+  },
+  {
+    "level": 1,
+    "title": "X. STVARNO IN DRUGA KAZALA",
+    "page_number": 864
+  },
+  {
+    "level": 2,
+    "title": "STVARNO KAZALO",
+    "page_number": 866
+  },
+  {
+    "level": 2,
+    "title": "PODROBNA KAZALA DESETIH POGLAVIJ SLOVNICE",
+    "page_number": 915
+  },
+  {
+    "level": 2,
+    "title": "LITERATURA PO POGLAVJIH",
+    "page_number": 915
+  },
+  {
+    "level": 2,
+    "title": "PISAVA IN PRAVOPIS",
+    "page_number": 916
+  },
+  {
+    "level": 2,
+    "title": "PREGLEDNICE",
+    "page_number": 917
+  },
+  {
+    "level": 2,
+    "title": "GRAFI",
+    "page_number": 917
+  },
+  {
+    "level": 2,
+    "title": "KRATICE GLASIL IN OBJAV",
+    "page_number": 918
+  },
+  {
+    "level": 2,
+    "title": "AVTORSKE KRATICE",
+    "page_number": 920
+  },
+  {
+    "level": 2,
+    "title": "POGOSTEJŠE SLOVNIČNE KRAJŠAVE IN STROKOVNI IZRAZI Z MEDNARODNIMI USTREZNIKI",
+    "page_number": 921
+  }
+]

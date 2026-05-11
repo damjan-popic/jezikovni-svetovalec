@@ -1,0 +1,2 @@
+# No runtime dependencies for search/context tools.
+# Extraction uses PyMuPDF when re-running tools/extract_pdfs.py.

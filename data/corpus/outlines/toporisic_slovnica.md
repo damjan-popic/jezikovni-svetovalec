@@ -1,0 +1,183 @@
+# Outline: Jože Toporišič - Slovenska slovnica
+
+- p. 1: NASLOVNA STRAN
+- p. 6: Jože Toporišič: SLOVENSKA SLOVNICA Četrta, prenovljena in razširjena izdaja
+- p. 8: PREDGOVOR
+- p. 9: PREDGOVOR K DRUGI IZDAJI
+- p. 10: PREDGOVOR K ČETRTI IZDAJI
+- p. 12: VSEBINA
+- p. 14: I. ZVRSTNOST SLOVENSKEGA JEZIKA, KAZALO
+  - p. 16: ZVRSTI IN SNOPI ZVRSTI
+    - p. 16: Osnovni pojmi
+    - p. 30: Funkcijske zvrsti
+    - p. 35: Prenosniški zvrsti
+  - p. 37: LITERATURA
+- p. 40: II. GLASOSLOVJE, KAZALO
+  - p. 40: Kazalo
+  - p. 44: Splošno o glasoslovju
+  - p. 49: GLASOVI PO TVORBI, AKUSTIČNIH ZNAČILNOSTIH TER RAZVRSTITVI
+  - p. 89: SINTAGMATIKA FONEMOV
+  - p. 90: ZLOG
+  - p. 100: LITERATURA
+    - p. 100: SPLOŠNA
+    - p. 102: NAGLASOSLOVJU DODANA LITERATURA
+    - p. 102: PISAVE IN PRAVOPIS
+- p. 104: III. BESEDOSLOVJE, KAZALO
+  - p. 106: KAJ JE BESEDOSLOVJE (leksikologija)
+  - p. 106: KAJ JE BESEDA
+  - p. 107: POSEBNOSTI V PISANJU
+  - p. 111: MORFEMSKI SESTAV BESEDE
+  - p. 112: VEČDELNE BESEDE IN  OBLIKE
+  - p. 112: BESEDNE VRSTE
+  - p. 113: NAGLASEVANJE V BESEDI - POUDARJANJE V STAVKU
+  - p. 116: IZRAZNA PODOBA IN POMEN
+  - p. 117: POMEN BESED
+  - p. 119: BESEDJE (LEKSIKA)
+  - p. 126: STILNA VREDNOST BESED
+  - p. 139: LITERATURA
+    - p. 139: Besedje
+    - p. 141: Izrazje
+    - p. 142: Vrste besed
+    - p. 142: Lastnoimensko besedje
+    - p. 143: Frazeologija
+- p. 146: IV. BESEDOTVORJE, KAZALO
+  - p. 152: OSNOVNI POJMI BESEDOTVORJA
+  - p. 164: TVORBA SAMOSTALNISKIH BESED
+  - p. 190: ZLAGANJE SAMOSTALNIKOV
+  - p. 197: SESTAVLJANJE SAMOSTALNIKOV
+  - p. 198: TVORBA PRIDEVNIŠKIH BESED
+  - p. 209: ZLAGANJE PRIDEVNIŠKIH BESED
+  - p. 213: TVORBA GLAGOLOV
+  - p. 230: TVORBA PRISLOVOV
+  - p. 235: TVORBA VEZNIKOV IN MEDMETOV
+  - p. 235: LITERATURA
+- p. 238: V. OBLKOSLOVJE, KAZALO
+  - p. 258: OSNOVNI POJMI OBLIKOSLOVJA
+  - p. 269: INHERENTNE KATEGORIJE SKLONLJIVEGA
+    - p. 269: Spol
+    - p. 270: Sklon
+    - p. 274: Število
+    - p. 275: Oseba
+  - p. 276: SAMOSTALNISKE BESEDE
+  - p. 279: SAMOSTALNIK
+    - p. 279: KATEGORIJA SAMOSTALNIKA
+    - p. 281: SKLANJATVE
+    - p. 307: SAMOSTALNIŠKI ZAIMKI
+  - p. 320: PRIDEVNIŠKE BESEDE
+  - p. 323: PRIDEVNIK
+  - p. 332: ŠTEVNKI
+  - p. 338: PRIDEVNIŠKI ZAIMKI
+  - p. 348: GLAGOL
+    - p. 351: GLAGOLSKE KATEGORIJE
+    - p. 363: PARADIGMATIKA GLAGOLSKIH OBLIK
+    - p. 392: RABA GLAGOLSKIH OBLIK
+  - p. 409: PRISLOV
+  - p. 415: POVEDKOVNIK
+  - p. 416: PREDLOG
+  - p. 429: VEZNIŠKA BESEDA
+  - p. 448: ČLENEK
+  - p. 453: MEDMET
+  - p. 466: LITERATURA
+    - p. 466: Oblikoglasje
+    - p. 466: Splošno
+    - p. 467: Samostalniška beseda
+    - p. 468: Pridevniška beseda
+    - p. 469: Glagol
+    - p. 470: Povedkovnik
+    - p. 470: Nepregibne besedne vrste
+    - p. 471: Naglas
+- p. 472: VI. SKLADNJA, KAZALO
+  - p. 490: KAJ OBSEGA SKLADNJA
+  - p. 491: POVED IN STAVEK
+  - p. 493: MEDPOVEDNA SKLADNJA
+  - p. 494: UPOVEDOVANJE
+  - p. 558: STAVEK
+  - p. 560: BESEDNE ZVEZE ALI STAVČNE FRAZE
+  - p. 609: DOLOČANJE STAVČNIH ČLENOV
+  - p. 631: TIPOLOGIJA STAVKOV
+  - p. 639: ZVEZE STAVKOV
+  - p. 656: PRVOTNI GOVOR - POROČANI (PRENESENI) GOVOR
+  - p. 670: BESEDNI IN STAVČNI RED
+  - p. 681: BESEDILNA SKLADNJA
+  - p. 691: LITERATURA
+    - p. 691: Splošno
+    - p. 692: Razprave o posameznih problemih
+    - p. 693: Stavčna fonetika
+    - p. 694: Besedni in stavčni red
+- p. 696: VII. SPOROČANJE, KAZALO
+  - p. 698: Splošno o sporočanju
+  - p. 701: TVOREC
+  - p. 718: BESEDILO
+  - p. 729: NASLOVNIK
+  - p. 746: LITERATURA
+    - p. 746: Splošno
+    - p. 746: Zvrstnost
+    - p. 747: Jezik v govoru
+    - p. 748: Nastajanje sporočila
+    - p. 748: Besedilno sporočilo
+    - p. 749: Naslovnik
+    - p. 749: Govorjenje
+    - p. 749: Sporočanje in šola
+    - p. 751: Pragmatika
+- p. 754: VIII. SLOVENSKI JEZIK V ČASU, KAZALO
+  - p. 758: SPLOSNO 0 SLOVENSKEM JEZIKU
+  - p. 758: ZGODOVINA SLOVENSKEGA JEZIKA
+  - p. 759: GLASOSLOVJE
+  - p. 762: OBLIKOSLOVJE
+  - p. 763: SLOVENSKI JEZIKOVNI RAZVOJ
+  - p. 777: SLOVENŠČINA IN STIČNI JEZIKI
+  - p. 780: SLOVENSKA NAREČJA
+  - p. 791: LITERATURA
+    - p. 791: Splošni razvoj slovenskega jezika
+    - p. 792: Narečja
+  - p. 798: SLOVENSKI PISMENI JEZIK
+    - p. 798: PREDKNJlŽNO IZROČILO
+    - p. 799: KNJIŽNI JEZIK
+  - p. 810: LITERATURA
+    - p. 810: Predknjižno izročilo (pismenstvo)
+    - p. 812: SIovenski knjižni jezik
+    - p. 813: I. obdobje slovenskega knjižnega jezika
+    - p. 816: Protireformacija
+    - p. 816: II. obdobje slovenskega knjižnega jezika
+    - p. 816: III. obdobje slovenskega knjižnega jezika
+    - p. 817: IV. obdobje slovenskega knjižnega jezika
+    - p. 818: V. obdobje slovenskega knjižnega jezika
+    - p. 820: VI. obdobje slovenskega knjižnega jezika
+    - p. 822: VII. obdobje sIovenskega knjižnega jezika
+    - p. 824: Pokrajinska knjižna izročila
+    - p. 824: Zahodnoslovensko izročilo
+    - p. 824: Koroško izročilo
+    - p. 825: Prekmursko izročilo
+    - p. 825: Štajersko izročilo
+- p. 826: IX. SODOBNA VPRAŠANJA KNJIŽNEGA JEZIKA IN JEZIKOSLOVJA, KAZALO
+  - p. 828: Vseslovenskost knjižnega jezika
+  - p. 829: Normodajalna podstava knjižnega jezika
+  - p. 829: Funkcijska zvrstnost
+  - p. 830: Norma in predpis
+  - p. 833: Pravopis in oblikoglasje
+  - p. 836: Normativni priročniki
+  - p. 837: Vprašanja funkcijske zvrstnosti
+  - p. 841: Družbenost
+  - p. 843: Stiki z drugojezičnim
+  - p. 844: Slovenščina kot tuji jezik
+  - p. 845: LITERATURA
+    - p. 845: Zvrstnost
+    - p. 845: Izrazna podoba jezika
+    - p. 846: Skladnja
+    - p. 846: Stilistika
+    - p. 847: Prevzemanje
+    - p. 847: Glasila, priročniki
+    - p. 848: Normiranje
+    - p. 848: Kultura knjižnegajezika
+    - p. 849: Družbenost jezika
+    - p. 853: DODATEK K JEZIKOSLOVNI LITERATURI
+- p. 864: X. STVARNO IN DRUGA KAZALA
+  - p. 866: STVARNO KAZALO
+  - p. 915: PODROBNA KAZALA DESETIH POGLAVIJ SLOVNICE
+  - p. 915: LITERATURA PO POGLAVJIH
+  - p. 916: PISAVA IN PRAVOPIS
+  - p. 917: PREGLEDNICE
+  - p. 917: GRAFI
+  - p. 918: KRATICE GLASIL IN OBJAV
+  - p. 920: AVTORSKE KRATICE
+  - p. 921: POGOSTEJŠE SLOVNIČNE KRAJŠAVE IN STROKOVNI IZRAZI Z MEDNARODNIMI USTREZNIKI

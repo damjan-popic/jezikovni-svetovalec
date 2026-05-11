@@ -1,0 +1,24 @@
+{
+  "generated_on": "2026-05-07",
+  "total_sources": 2,
+  "total_pages": 1200,
+  "sources": {
+    "sp2001": {
+      "pages": 270,
+      "words": 96106,
+      "chars": 616668,
+      "low": 17
+    },
+    "toporisic_slovnica": {
+      "pages": 930,
+      "words": 375141,
+      "chars": 2349042,
+      "low": 35
+    }
+  },
+  "notes": [
+    "Text comes from each PDF embedded text layer. No fresh OCR was run.",
+    "SP2001 common CP1250/Latin-1 mojibake for Slovenian characters was normalized.",
+    "Quality flags identify pages where the text layer is sparse or likely noisy."
+  ]
+}
