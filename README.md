@@ -1,4 +1,4 @@
-# JEzikovni svetovalec
+# Jezikovni svetovalec
 
 A private course repo for answering Slovenian language questions from a local corpus and for maintaining a persistent **LLM Wiki** over that corpus.
 
